@@ -1,4 +1,4 @@
 # Olá,Mundo
  Primeiro repositorio 
 
-Repositório criado durante uma aula
+Repositório criado durante uma aula.
